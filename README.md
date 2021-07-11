@@ -6,5 +6,5 @@ Usage:
 
 In Terminal 
 
-cd MacInfo 
+cd MacInfo <br> 
 bash MacInfo.sh
